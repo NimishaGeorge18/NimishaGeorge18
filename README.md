@@ -25,5 +25,6 @@
 
 ## 📫 Connect With Me
 
--Email: nimishageorge2000@gmail.com
+
+- Email: nimishageorge2000@gmail.com
 - LinkedIn: https://linkedin.com/in/nimisha-george-518990195
