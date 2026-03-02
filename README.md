@@ -17,9 +17,10 @@
 
 ## 📌 Featured Projects
 
+- 🧪 ExperimentHub – Repository of hands-on experiments in Python covering backend logic, algorithms, and structured problem-solving
 - 🏠 RealEstate-MERN – Full-stack real estate platform  
 - 📊 Job Tracker CLI – Python-based job application tracker  
-- ⚙️ FastAPI CRUD API – RESTful backend with database integration  
+
 
 ---
 
