@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nimisha 👋
 
-<!--
-**NimishaGeorge18/NimishaGeorge18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Computer Science @ Pace University  
+💻 Backend & Full-Stack Developer  
+⚙️ Building scalable APIs with FastAPI, .NET, and React  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Backend:** FastAPI, .NET, Node.js
+- **Frontend:** React
+- **Database:** SQL, MongoDB
+- **Cloud & DevOps:** Azure, Git, API Testing
+
+---
+
+## 📌 Featured Projects
+
+- 🏠 RealEstate-MERN – Full-stack real estate platform  
+- 📊 Job Tracker CLI – Python-based job application tracker  
+- ⚙️ FastAPI CRUD API – RESTful backend with database integration  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/nimisha-george-518990195
