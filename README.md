@@ -9,6 +9,7 @@
 ## 🔧 Tech Stack
 
 - **Backend:** FastAPI, .NET, Node.js
+- Programming Language: Python
 - **Frontend:** React
 - **Database:** SQL, MongoDB
 - **Cloud & DevOps:** Azure, Git, API Testing
