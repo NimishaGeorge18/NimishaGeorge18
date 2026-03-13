@@ -8,14 +8,10 @@
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python, JavaScript, C#
-
+- **Languages**: Python, JavaScript
 - **Backend**: FastAPI, .NET, Node.js, REST API Development
-
 - **Frontend**: React, HTML, CSS
-
 - **Databases**: SQL, MongoDB
-
 - **Cloud & Tools**: Azure, Git, Postman
 
 ---
