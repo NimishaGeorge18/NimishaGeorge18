@@ -30,3 +30,4 @@
 
 - Email: nimishageorge2000@gmail.com
 - LinkedIn: https://linkedin.com/in/nimisha-george-518990195
+- Portfolio showcasing my projects, skills, and development journey: https://portfolio-six-wheat-64.vercel.app
