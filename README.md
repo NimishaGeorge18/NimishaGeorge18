@@ -1,8 +1,8 @@
 # Hi, I'm Nimisha 👋
 
-🎓 Master’s in Computer Science @ Pace University  
-💻 Backend & Full-Stack Developer  
-⚙️ Building scalable APIs with FastAPI, .NET, and React  
+Master’s in Computer Science @ Pace University  
+Full-Stack Developer | React Native, React, Node.js, Python & .NET
+Building mobile applications, backend APIs and data-driven product 
 
 ---
 
